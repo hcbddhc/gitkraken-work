@@ -1,4 +1,8 @@
 This is text file 3. 
 
+<<<<<<< HEAD
 fjkjkdjfjdkfjdkjfdf
+=======
+
+>>>>>>> testbranchA
 

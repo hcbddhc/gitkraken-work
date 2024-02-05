@@ -1,4 +1,7 @@
 This is text file 2. 
 
 
+<<<<<<< HEAD
 hello main file reader!
+=======
+>>>>>>> testbranchA
